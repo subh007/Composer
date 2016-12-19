@@ -7,6 +7,7 @@
     {
         "jobId" : "java2",
         "jobName" : "hello world",
-        "classname" : "org.subh.app.task.Task"
+        "classname" : "org.subh.app.task.Task",
+        "dependencies" : ["java1"]
     }
 ]
